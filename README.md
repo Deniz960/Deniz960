@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CrooKameron</h1>
-<h3 align="center">a determined fullstack Web student</h3>
+<h3 align="center">a full stack Web student</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> </p>
 
  <p align="center">
