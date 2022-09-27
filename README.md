@@ -63,5 +63,5 @@
 
 
 <br> <br> <br> 
-<img width="250" align="right" src="https://jwscouups.carrd.co/assets/images/image03.gif?v=0e775c45">
+<img width="250" align="right" src="https://i.imgur.com/4ru2xIY.gif">
 
