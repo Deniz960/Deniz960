@@ -1,24 +1,32 @@
 <h1 align="center">Hi 👋, I'm CrooKameron</h1>
-<h3 align="center">a full stack Web student</h3>
+<!-- <h3 align="center">a full stack Web student</h3> -->
+
+<h2 align="center"> 
+    <img width="30" height="30" src="https://png.pngtree.com/png-vector/20190425/ourmid/pngtree-vector-danger-icon-png-image_987304.jpg">
+    <b> I currently took a break coding for university exams </b>
+    <img width="30" height="30" src="https://png.pngtree.com/png-vector/20190425/ourmid/pngtree-vector-danger-icon-png-image_987304.jpg">
+</h2>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> </p>
 
  <p align="center">
-<img width="250" src="https://i.pinimg.com/originals/bd/c5/d5/bdc5d5efef0626dd676f81cc1f7d1fe9.gif">
-<img width="250" src="https://64.media.tumblr.com/842dbdb12642764e2db1e68abe2767e1/e49e15e0a45729cd-ef/s250x400/d1b2aad5f3bdc6af46f4581a3b17c07df3c3ee4a.gif">
-<img width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae0392d7-3c7c-450e-875a-2134de6dbf59/dawicq3-d15f7e95-fc88-4f5a-b823-d9a69d5c966a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMDM5MmQ3LTNjN2MtNDUwZS04NzVhLTIxMzRkZTZkYmY1OVwvZGF3aWNxMy1kMTVmN2U5NS1mYzg4LTRmNWEtYjgyMy1kOWE2OWQ1Yzk2NmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R9kP2rAWvwdF5AOGWhiUyahnQoAtlMmve1nwSxUWAag">
-
-
-
+  <img width="250" src="https://i.pinimg.com/originals/bd/c5/d5/bdc5d5efef0626dd676f81cc1f7d1fe9.gif">
+  <img width="250" src="https://64.media.tumblr.com/842dbdb12642764e2db1e68abe2767e1/e49e15e0a45729cd-ef/s250x400/d1b2aad5f3bdc6af46f4581a3b17c07df3c3ee4a.gif">
+  <img width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae0392d7-3c7c-450e-875a-2134de6dbf59/dawicq3-d15f7e95-fc88-4f5a-b823-d9a69d5c966a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMDM5MmQ3LTNjN2MtNDUwZS04NzVhLTIxMzRkZTZkYmY1OVwvZGF3aWNxMy1kMTVmN2U5NS1mYzg4LTRmNWEtYjgyMy1kOWE2OWQ1Yzk2NmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R9kP2rAWvwdF5AOGWhiUyahnQoAtlMmve1nwSxUWAag">
  </p>
+ 
+ 
 
 - 🔭 I’m currently studying for **university exams**
 
-- 🌱 I’m currently learning **JavaScript & Typescript**
+- 🌱 I lately learned **JavaScript & Typescript**
 
 - 📫 How to reach me **CrooKameron@gmail.com**
 
  
 <br> 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
