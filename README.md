@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm CrooKameron</h1>
-<!-- <h3 align="center">a full stack Web student</h3> -->
+
 
 <h2 align="center"> 
     <img width="30" height="30" src="https://png.pngtree.com/png-vector/20190425/ourmid/pngtree-vector-danger-icon-png-image_987304.jpg">
-    <b> I currently took a break coding for university exams </b>
+    <b> I just took a long break for university exams </b>
     <img width="30" height="30" src="https://png.pngtree.com/png-vector/20190425/ourmid/pngtree-vector-danger-icon-png-image_987304.jpg">
 </h2>
 
