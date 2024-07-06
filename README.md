@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm CrooKameron</h1>
 
 
-<h2 align="center"> 
-    <img width="30" height="30" src="https://png.pngtree.com/png-vector/20190425/ourmid/pngtree-vector-danger-icon-png-image_987304.jpg">
-    <b> I just took a long break for university exams </b>
-    <img width="30" height="30" src="https://png.pngtree.com/png-vector/20190425/ourmid/pngtree-vector-danger-icon-png-image_987304.jpg">
-</h2>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> </p>
 
  <p align="center">
