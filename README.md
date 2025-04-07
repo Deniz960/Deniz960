@@ -59,5 +59,5 @@
 
 <br> <br> <br> 
 <img width="250" align="right" src="https://i.imgur.com/4ru2xIY.gif">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> </p>
+<img align="left" src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
 
