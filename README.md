@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
-<img align="center"  src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
+<img align="center" src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="Deniz960" /> 
 
 
 
