@@ -32,5 +32,6 @@
 
 
 <img style="margin-left:auto;"  src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
+<!--
 <img style="margin-right:auto;" width="250" src="https://i.imgur.com/4ru2xIY.gif">
-
+-->
