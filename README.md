@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CrooKameron</h1>
+<h1 align="center">Hi 👋, I'm Deniz</h1>
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> </p>
