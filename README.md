@@ -9,19 +9,8 @@
   <img width="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ae0392d7-3c7c-450e-875a-2134de6dbf59/dawicq3-d15f7e95-fc88-4f5a-b823-d9a69d5c966a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FlMDM5MmQ3LTNjN2MtNDUwZS04NzVhLTIxMzRkZTZkYmY1OVwvZGF3aWNxMy1kMTVmN2U5NS1mYzg4LTRmNWEtYjgyMy1kOWE2OWQ1Yzk2NmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R9kP2rAWvwdF5AOGWhiUyahnQoAtlMmve1nwSxUWAag">
  </p>
  
- 
 
-- 🔭 I’m currently studying for **university exams**
-
-- 🌱 I lately learned **JavaScript & Typescript**
-
-- 📫 How to reach me **CrooKameron@gmail.com**
-
- 
-<br> 
-
-
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <!-- linkedin --><a href="https://linkedin.com/in/https://www.linkedin.com/in/crookameron-the-cat-784900236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/crookameron-the-cat-784900236" height="30" width="40" /></a>
@@ -30,7 +19,10 @@
    <!-- instagram --><a href="https://instagram.com/crookameron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crookameron" height="30" width="40" /></a>
    <!-- discord --><a href="https://discord.gg/CrooKameron#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrooKameron#0001" height="30" width="40" /></a>
 </p>
+
 <br> 
+
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <!-- html --><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
