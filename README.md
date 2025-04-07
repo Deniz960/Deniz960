@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Deniz</h1>
+<h2 align="center">Hi 👋, I'm Deniz</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Deniz960&label=Profile%20views&color=6161ff&style=flat" alt="Deniz960"/></p> 
 
-<h1>a</h1>
+
  
  <p align="center">
   <img width="250" src="https://i.pinimg.com/originals/bd/c5/d5/bdc5d5efef0626dd676f81cc1f7d1fe9.gif">
