@@ -45,12 +45,12 @@
 
 <div>
 
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=crookameron&show_icons=true&theme=react&hide_border=true&locale=en" alt="crookameron" /></p>
-
-
+-->
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crookameron&show_icons=true&theme=react&hide_border=true&locale=en&layout=compact" alt="crookameron" /></p>
-
+-->
 
 
 </div>
