@@ -30,6 +30,10 @@
 
 
 
-
-<img align="left"  src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
-<img align="right" src="https://i.imgur.com/4ru2xIY.gif">
+ <frameset rows="*,auto" frameborder="0" border="0">
+    <frame src="about:blank" noresize>
+    <frameset cols="auto,*" frameborder="0" border="0">
+      <frame srcdoc='<img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="Profile views">' noresize>
+      <frame src="about:blank" noresize>
+    </frameset>
+  </frameset>
