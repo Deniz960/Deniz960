@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deniz</h1>
+<img align="center"  src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
 
 
 
@@ -31,7 +32,6 @@
 
 
 
-<img width="5%" align="left" valign="bottom"  src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
 <img align="right" src="https://i.imgur.com/4ru2xIY.gif">
 
 
