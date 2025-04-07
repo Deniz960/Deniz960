@@ -1,8 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Deniz<p align="center"> </h1>
-<img src="https://komarev.com/ghpvc/?username=Deniz960&label=Profile%20views&color=6161ff&style=flat" alt="Deniz960"/>
 
 
- 
+
  <p align="center">
   <img width="250" src="https://i.pinimg.com/originals/bd/c5/d5/bdc5d5efef0626dd676f81cc1f7d1fe9.gif">
   <img width="250" src="https://64.media.tumblr.com/842dbdb12642764e2db1e68abe2767e1/e49e15e0a45729cd-ef/s250x400/d1b2aad5f3bdc6af46f4581a3b17c07df3c3ee4a.gif">
@@ -10,7 +9,8 @@
  </p>
 
 
-
+ <!--
+<img src="https://komarev.com/ghpvc/?username=Deniz960&label=Profile%20views&color=6161ff&style=flat" alt="Deniz960"/>
 
 
 
