@@ -29,17 +29,9 @@
 <br> <br> <br> 
 
 
--
 
-    <table width="100%" height="100%">
-      <tr height="100%">
-        <!-- Left cell, image aligned to bottom -->
-        <td valign="bottom" align="left">
-          <img src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="Profile views">
-        </td>
-        <!-- Right cell, blank or for additional content -->
-        <td></td>
-      </tr>
-    </table>
+
+<img align="left"  src="https://komarev.com/ghpvc/?username=crookameron&label=Profile%20views&color=6161ff&style=flat" alt="crookameron" /> 
+<img align="right" src="https://i.imgur.com/4ru2xIY.gif">
 
 
